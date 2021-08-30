@@ -16,7 +16,7 @@ const Formulario = () => {
             email: emailField,
             phone: phoneField
         }
-// teste commit
+
         setNameField('')
         setEmailField('')
         setPhoneField('')
