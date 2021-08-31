@@ -1,5 +1,9 @@
 {
   "formulario": {
     "component": "Formulario"
+  },
+
+  "leads": {
+    "component": "User"
   }
 }
